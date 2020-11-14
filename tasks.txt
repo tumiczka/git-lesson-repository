@@ -4,3 +4,7 @@
 2 basic terminal operations
 2 basic terminal operations
 2 basic terminal operations
+test.txt
+macska
+cica
+macsek
